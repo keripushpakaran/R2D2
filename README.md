@@ -1,1 +1,1 @@
-# R2D2
+# R2D2, my remake of R2D2 completely using Arduino language. Creating the frequencies of the Star wars theme song as well as movement synchronised with a motor connected to the swivelling head of the robot were all a part of the plan 
